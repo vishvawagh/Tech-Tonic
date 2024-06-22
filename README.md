@@ -1,9 +1,9 @@
-## Bits-0f-C0de
+## TechTonic
 
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="" target="_blank">Vishva/a>
+  <a href="" target="_blank">Vishva /a>
 </h2>
 
 <div align="center">
