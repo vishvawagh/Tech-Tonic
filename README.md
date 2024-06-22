@@ -72,4 +72,5 @@ To write your own blogs create a markdown file in `_content` folder with the spe
 Give a ⭐ if you like this website!
 
 <a href="https://tech-tonic-pi.vercel.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
-Made with &heart; by Vishva Wagh
+<br><br/>
+Made with ♥ by Vishva Wagh
