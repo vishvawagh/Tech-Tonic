@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://tech-tonic-pi.vercel.app/" target="_blank"> Vishva /a>
+  <a href="https://tech-tonic-pi.vercel.app/" target="_blank"> Vishva />
 </h2>
 
 <div align="center">
@@ -37,6 +37,7 @@ This project was built using these technologies.
 - Tailwind Css
 - Dark mode support
 - VsCode
+- -vercel
 
 ## Features
 
@@ -47,6 +48,7 @@ This project was built using these technologies.
 **✏️ Easy to customize and write posts of your own**
 
 **🎨 Styled with Tailwind Css**
+
 
 ## Getting Started
 
@@ -74,4 +76,5 @@ To write your own blogs create a markdown file in `_content` folder with the spe
 
 Give a ⭐ if you like this website!
 
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://tech-tonic-pi.vercel.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Made with &heart; by Vishva Wagh
