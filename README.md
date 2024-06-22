@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="" target="_blank">Vishva /a>
+  <a href="https://tech-tonic-pi.vercel.app/" target="_blank"> Vishva /a>
 </h2>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 ## Built With
 
-My personal blogpage <a href="" target="_blank">Vishvablog</a> which features some of my developer blog posts and experiences.<br/>
+My personal blogpage <a href="https://tech-tonic-pi.vercel.app/" target="_blank">Vishva's Blog</a> which features some of my developer blog posts and experiences.<br/>
 
 This project was built using these technologies.
 
