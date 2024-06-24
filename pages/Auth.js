@@ -64,7 +64,7 @@ const Auth = () => {
         <div className={css['welcome']}>
           <h2> Welcome  {user.email} !!! </h2>
           
-          <Link href="/"><h2>Enjoy Your Blogs 🏘 </h2></Link>
+          <Link className ={css['welcome']} href="/"><h2>Enjoy Your Blogs 🏘 </h2></Link>
           <br></br>
           <button onClick={handleLogout}>Logout</button>
         </div>
