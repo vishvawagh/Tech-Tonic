@@ -44,7 +44,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="www.github.com/vishvawagh"
+              href="https://github.com/vishvawagh"
             >
               See My Works
             </a>
